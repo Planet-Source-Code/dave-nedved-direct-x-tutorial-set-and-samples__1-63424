@@ -1,0 +1,2 @@
+If you do not have C++ installed or you are having trouble compiling the DLL please rename 
+the "mvbMath.dll.txt" to "mvbMath.dll" This this had to be done beacuse PSC removes DLL files from ZIP Files.
